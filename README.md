@@ -27,6 +27,16 @@ Technologies Used
 - React Icons for small visuals and buttons  
 - Custom CSS for layout and styles
 
+- Build Information
+
+The project build was created using the command:
+
+npm run build
+
+The result of the build process is located in the /build folder.
+According to the assignment requirements, this folder has been zipped
+and included as shopping-list-detail-build.zip for submission.
+
 
 
 
